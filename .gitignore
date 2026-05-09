@@ -1,0 +1,13 @@
+# 密钥文件 - 绝对不能提交到 Git
+.env
+
+# 运行时数据 - 每次运行都会重新生成
+data/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
